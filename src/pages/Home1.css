@@ -1,0 +1,11 @@
+h2{
+    position: fixed;
+    top: 33%;
+    padding-bottom: 30px;
+    /* border: 1px solid red; */
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+    color: brown;
+    text-shadow: 2px 2px 8px black;
+}
